@@ -1,0 +1,12 @@
+<meta>
+
+<!--CLIENT SIDE-->
+<script src="c.lua" type="client"/>
+
+<!--SERVER SIDE-->
+<script src="s_bank.lua" type="server"/>
+
+<!--FILES-->
+<file src="icons/echange-icon.png"/>
+<file src="icons/info-icon.png"/>
+</meta>
